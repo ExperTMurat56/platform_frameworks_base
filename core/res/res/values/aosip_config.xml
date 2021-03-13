@@ -114,6 +114,9 @@
     <!-- Whether or not swipe up gesture's opt-in setting is available on this device -->
     <bool name="config_custom_swipe_up_gesture_setting_available">false</bool>
 
+    <!-- True if the home button has the ability to wake up phone from lockscreen-->
+    <bool name="config_HomeWakeButton">true</bool>
+	
     <!-- Whether device has dash charging support -->
     <bool name="config_hasDashCharger">false</bool>
 
